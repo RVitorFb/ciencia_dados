@@ -1,4 +1,3 @@
 # aula_ciencia_dados
 
-11111111111111111
-0000000
+sssssssss
